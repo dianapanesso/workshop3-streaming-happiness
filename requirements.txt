@@ -1,0 +1,13 @@
+# Análisis de datos y Machine Learning
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Kafka
+kafka-python
+
+# Base de datos (PostgreSQL)
+psycopg2-binary
+SQLAlchemy
